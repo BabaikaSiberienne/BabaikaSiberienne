@@ -6,7 +6,7 @@
 </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/i3REGCe2fPUZwnQ8mn/giphy.gif?cid=ecf05e47uoertdn83mo86asn00sqnlpal0dfp3dudi1ca0y8&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWpnYnpieTM5dDVrMTRmYTU2Y2tna2V0YzQ5dmh1czBsM3JleGExdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i3REGCe2fPUZwnQ8mn/giphy-downsized-large.gif" width="600" height="300"/>
 </div>
 <!--
 **BabaikaSiberienne/BabaikaSiberienne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
