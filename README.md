@@ -1,11 +1,12 @@
 ## Hi there 👋
 
-<!--
-**BabaikaSiberienne/BabaikaSiberienne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-f
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXh2am1nOWU2bHQ0ZmU4cGlma3llNmpqZmhpa2NydWNpZWtrM2l5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif" width="100"/>
 </div>
+<!--
+**BabaikaSiberienne/BabaikaSiberienne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+f
+
 
 Here are some ideas to get you started:
 
