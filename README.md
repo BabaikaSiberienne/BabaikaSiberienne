@@ -16,7 +16,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :seedling: Exploring Frontend and Backend Developement.
 
-- :zap: In my free time, I draw lanscapes and read tech articles.
+- :zap: In my free time, I draw landscapes and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/babaeva-eseniya)
 
